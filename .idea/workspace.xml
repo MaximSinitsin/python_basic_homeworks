@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25070d77-724e-4ca0-8945-d5d752242ec1" name="Default Changelist" comment="" />
+    <list default="true" id="25070d77-724e-4ca0-8945-d5d752242ec1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hw_basic_less3_hard.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_basic_less3_hard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw_basic_less3_normal.py" beforeDir="false" afterPath="$PROJECT_DIR$/hw_basic_less3_normal.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +12,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw_basic_less3_normal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw_basic_less3_hard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +43,8 @@
         <option value="$PROJECT_DIR$/../Python_basic_projects/Python_basic_homework_test/hw_basic_less4_easy.py" />
         <option value="$PROJECT_DIR$/../Python_basic_projects/Python_basic_homework_test/hw_basic_less4_normal.py" />
         <option value="$PROJECT_DIR$/../Python_basic_projects/Python_basic_homework_test/hw_basic_less4_hard.py" />
+        <option value="$PROJECT_DIR$/hw_basic_less3_normal.py" />
+        <option value="$PROJECT_DIR$/hw_basic_less3_hard.py" />
       </list>
     </option>
   </component>
@@ -37,6 +61,15 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
+            <path>
+              <item name="python_basic_homeworks.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic_homeworks" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="python_basic_homeworks.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_basic_homeworks" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="python_basic_homeworks.git" type="462c0819:PsiDirectoryNode" />
+            </path>
             <path>
               <item name="python_basic_homeworks.git" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_basic_projects" type="462c0819:PsiDirectoryNode" />
@@ -58,11 +91,6 @@
               <item name="lessons" type="462c0819:PsiDirectoryNode" />
               <item name="lesson04" type="462c0819:PsiDirectoryNode" />
               <item name="home_work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_basic_homeworks.git" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_basic_projects" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_basic_homework_test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,9 +176,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1552" height="812" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -158,7 +187,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32892805" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32892805" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -216,6 +245,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_basic_less3_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_basic_less3_normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw_basic_less3_hard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
         </state>
       </provider>
     </entry>
