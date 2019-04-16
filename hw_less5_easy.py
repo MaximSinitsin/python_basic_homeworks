@@ -7,10 +7,14 @@ print('*'*45, '\nЗадание easy выполнил: Синицин Макси
 # И второй скрипт, удаляющий эти папки.
 
 import os
+import sys
 import shutil
+
 
 def mkdirs():
     [os.mkdir('dir_' + str(i)) for i in range(1, 10) if not os.path.exists('dir_' + str(i))]
+
+
 def rmdirs():
     [os.rmdir('dir_' + str(i)) for i in range(1, 10) if os.path.exists('dir_' + str(i))]
 
@@ -37,7 +41,6 @@ if __name__ == '__main__':
     rmdirs()      # --> ЗАкомментировать чтобы отработалось создание файлов dir_1-dir_10
     list_dirs()
     # copy_file()      # --> РАСкомметировать copy_file() - чтобы создать копию файла
-
 
 
 # для задания нормал:
